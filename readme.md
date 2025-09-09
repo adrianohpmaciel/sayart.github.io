@@ -6,6 +6,8 @@ Link do protótipo: https://www.figma.com/design/w29HtJgpsMnxi5IqhATqTC/SayArt-V
 
 `Talento Cloud: Grupo 2`
 
+Este é um protótipo de uma rede social direcionada aos consumidores de materiais artísticos como filmes, séries e livros. Nesta rede social, a ideia é que cada interação tenha relação com alguma obra artística.
+
 Link do deploy: https://adrianohpmaciel.github.io/sayart.github.io/src/index.html
 
 
@@ -17,3 +19,7 @@ Link do deploy: https://adrianohpmaciel.github.io/sayart.github.io/src/index.htm
 * Iasmin Evelin Pedrosa dos Santos
 * Rafaela Pinheiro Gil Ferreira
 
+## Tecnologias utilizadas
+- **Javascript:** para validações de formulários
+- **HTML:** para estruturação da página web
+- **CSS:** para estilização da página web
